@@ -1,2 +1,3 @@
 New file
 New content from Local
+Added from Remote
